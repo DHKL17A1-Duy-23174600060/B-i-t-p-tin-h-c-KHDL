@@ -1,0 +1,12 @@
+#1.8 thực hiện chuỗi
+s1 = input("Nhập chuỗi s1: ")
+s2 = input("Nhập chuỗi s2: ")
+s3 = input("Nhâp chuỗi s3: ")
+length1 = len(s1)
+length2 = len(s2)
+length3 = len(s3)
+index = input("index : ")
+print("Chiều dài chuỗi s1: ", length1)
+print("Chiều dài chuỗi s2: ", length2)
+print("Chiều dài chuỗi s3: ", length3) 
+print("Chuỗi s2 lặp lại 2 lần : ", s2,s2)
